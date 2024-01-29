@@ -1,0 +1,1 @@
+Here is the result: hi this is first text file  ,second text read enter file
